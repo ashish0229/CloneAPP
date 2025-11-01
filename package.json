@@ -1,0 +1,19 @@
+{
+  "name": "ashproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashish0229/CloneAPP.git"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashish0229/CloneAPP/issues"
+  },
+  "homepage": "https://github.com/ashish0229/CloneAPP#readme"
+}
