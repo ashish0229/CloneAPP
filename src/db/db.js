@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import {DB_name} from "./constants.js";
+import {DB_name} from "../constants.js";
 
 const connectDB = async () => {
     try { 
@@ -15,4 +15,3 @@ const connectDB = async () => {
 }
 
 export default connectDB;
-export const DB_name = "AshprojectDB";
